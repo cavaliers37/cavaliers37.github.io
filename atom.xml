@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[My Octopress Blog]]></title>
+  <link href="http://cavaliers37.github.io/atom.xml" rel="self"/>
+  <link href="http://cavaliers37.github.io/"/>
+  <updated>2016-02-01T00:01:07+08:00</updated>
+  <id>http://cavaliers37.github.io/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[第一次尝试写博客]]></title>
+    <link href="http://cavaliers37.github.io/blog/2016/01/30/firsttest/"/>
+    <updated>2016-01-30T22:39:14+08:00</updated>
+    <id>http://cavaliers37.github.io/blog/2016/01/30/firsttest</id>
+    <content type="html"><![CDATA[<h1>Hello World</h1>
+
+<h2>你好 世界</h2>
+
+<p><strong>加粗</strong></p>
+
+<p><code>标亮</code></p>
+
+<p><em>斜体</em></p>
+
+<ul>
+<li>java
+
+<ul>
+<li>http</li>
+<li>sql</li>
+</ul>
+</li>
+<li>php</li>
+<li>html</li>
+</ul>
+
+
+<blockquote><p>引用</p></blockquote>
+
+<p><a href="https://www.baidu.com">百度</a></p>
+
+<p>Error processing input, expected syntax: {% video url/to/video [url/to/video] [url/to/video] [width height] [url/to/poster] %}</p>
+
+<p>Use the <code>printf()</code> function.</p>
+
+<p><code>There is a literal backtick (`) here.</code></p>
+
+<p>A single backtick in a code span: <code>`</code></p>
+
+<p>A backtick-delimited string in a code span: <code>`foo`</code></p>
+
+<pre><code class="javascript">$(document).ready(function () {
+    alert('hello world');
+});
+</code></pre>
+
+<table>
+<thead>
+<tr>
+<th> 为知笔记</th>
+<th>更新 </th>
+<th> 版本 </th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td> WizNote </td>
+<td> Markdown</td>
+<td> Latest </td>
+</tr>
+</tbody>
+</table>
+
+]]></content>
+  </entry>
+  
+</feed>
