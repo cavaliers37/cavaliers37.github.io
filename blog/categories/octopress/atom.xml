@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Octopress | 风中落叶]]></title>
   <link href="http://cavaliers37.github.io/blog/categories/octopress/atom.xml" rel="self"/>
   <link href="http://cavaliers37.github.io/"/>
-  <updated>2016-02-01T22:11:06+08:00</updated>
+  <updated>2016-02-01T23:53:11+08:00</updated>
   <id>http://cavaliers37.github.io/</id>
   <author>
     <name><![CDATA[wy]]></name>
@@ -45,7 +45,7 @@
 
 <p><a href="https://www.baidu.com">百度</a></p>
 
-<p>Error processing input, expected syntax: {% video url/to/video [url/to/video] [url/to/video] [width height] [url/to/poster] %}</p>
+<p>{%video %}</p>
 
 <p>Use the <code>printf()</code> function.</p>
 
@@ -65,6 +65,9 @@
      ('1' * self) !~ /^1?$|^(11+?)\1+$/
    end
  end
+</code></pre>
+
+<pre><code class="java "> Hello world
 </code></pre>
 ]]></content>
   </entry>
